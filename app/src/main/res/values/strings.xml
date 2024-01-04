@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_mode">Change Mode</string>
+    <string name="button_backup" />
+    <string name="button_download" />
+    <string name="button_gallery" />
+    <string name="button_camera" />
+    <string name="segment_selfie" />
+    <string name="selfie_image" />
+    <string name="foreground_mode" />
+    <string name="please_wait">Please Wait...</string>
+</resources>
